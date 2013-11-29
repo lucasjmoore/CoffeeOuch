@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeOuch", "CoffeeOuch\CoffeeOuch.csproj", "{AA3BE4F3-C962-4EA2-80F1-67B504D997A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EatHere", "..\..\EatHere _part3\EatHere\EatHere.csproj", "{817789BD-9DB1-4769-9AB4-12F78FCAF2B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EatHere", "..\..\EatHere\EatHere\EatHere.csproj", "{817789BD-9DB1-4769-9AB4-12F78FCAF2B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

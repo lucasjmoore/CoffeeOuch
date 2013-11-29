@@ -1,0 +1,24 @@
+{
+  "MainCategories": "Ouch Topics",
+  "Categories": 
+     [
+          {
+               "Title": "Burnt Yourself",
+               "Image": "Assets/coffee_shop_logos/secondcup_logo.png"
+               
+          },
+          {
+               "Title": "Second Cup",
+	       "Image": "Assets/coffee_shop_logos/secondcup_logo.png"
+               
+          },
+	  {
+               "Title": "Tim Hortons",
+               "Image": "Assets/coffee_shop_logos/secondcup_logo.png"
+          },
+	  {
+               "Title": "BridgeHead",
+               "Image": "Assets/coffee_shop_logos/secondcup_logo.png"
+          }
+     ]
+}
