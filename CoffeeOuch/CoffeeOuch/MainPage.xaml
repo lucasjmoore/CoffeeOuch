@@ -14,7 +14,10 @@
     shell:SystemTray.IsVisible="True">
 
     <!--LayoutRoot is the root grid where all page content is placed-->
-    <Grid x:Name="LayoutRoot" Background="Transparent">
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/bg.png" />
+        </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
@@ -41,15 +44,25 @@
 
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Text="Coffee...Ouch!" Style="{StaticResource PhoneTextTitle1Style}" Margin="12,0"/>
+            <TextBlock Text="Coffee...Ouch!" FontSize="48" FontFamily="Arial" TextAlignment="Center" Foreground="#FFF;" Margin="12,0"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
             <StackPanel Margin="12,14,12,0" Orientation="Vertical" VerticalAlignment="Center">
                 <StackPanel HorizontalAlignment="Left" Orientation="Horizontal">
-                    <Button x:Name="CoffeeBtn" Tap="CoffeeBtn_Tap" Height="200" Width="200" Margin="12,0,0,0">Coffee</Button>
-                    <Button x:Name="OuchBtn" Tap="OuchBtn_Tap" Height="200" Width="200" Margin="12,0,0,0">Ouch!</Button>
+                    <Button x:Name="CoffeeBtn" Tap="CoffeeBtn_Tap" BorderThickness="0" Height="226" Width="200" Margin="12,0,0,0">
+                        <StackPanel>
+                            <Image Source="Assets/btn_icons/coffee_icon.png"/>
+                            <TextBlock Foreground="Black" Text="Coffee" TextAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+                    <Button x:Name="OuchBtn" Tap="OuchBtn_Tap" BorderThickness="0" Height="225" Width="200" Margin="12,0,0,0">
+                        <StackPanel>
+                            <Image Source="Assets/btn_icons/ouch_icon.png"/>
+                            <TextBlock Foreground="Black" Text="OUCH!" TextAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
                 </StackPanel>
             </StackPanel>
         </Grid>
