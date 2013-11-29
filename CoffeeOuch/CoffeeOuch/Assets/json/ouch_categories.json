@@ -1,0 +1,24 @@
+{
+  "OuchCategories": "Ouch Categories",
+  "Categories": 
+     [
+          {
+               "Title": "Burnt Yourself",
+               "Image": "Assets/coffee_shop_logos/secondcup_logo.png"
+               
+          },
+          {
+               "Title": "Spilt on Clothes",
+	       "Image": "Assets/coffee_shop_logos/secondcup_logo.png"
+               
+          },
+	  {
+               "Title": "Floor",
+               "Image": "Assets/coffee_shop_logos/secondcup_logo.png"
+          },
+	  {
+               "Title": "Tips and Tricks",
+               "Image": "Assets/coffee_shop_logos/secondcup_logo.png"
+          }
+     ]
+}

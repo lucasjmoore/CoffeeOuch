@@ -1,0 +1,28 @@
+{
+  "CoffeeData": "Coffee Shops",
+  "Shops": 
+     [
+          {
+               "Title": "Starbucks",
+               "Website": "http://www.starbucks.ca",
+	       "Image": "Assets/coffee_shop_logos/starbucks_logo.png"
+               
+          },
+          {
+               "Title": "Second Cup",
+               "Website": "http://www.secondcup.com/",
+	       "Image": "Assets/coffee_shop_logos/secondcup_logo.png"
+               
+          },
+	  {
+               "Title": "Tim Hortons",
+               "Website": "http://www.http://www.timhortons.com/ca/en/",
+               "Image": "Assets/coffee_shop_logos/timhortons_logo.png"
+          },
+	  {
+               "Title": "BridgeHead",
+               "Website": "http://www.bridgehead.ca/",
+               "Image": "Assets/coffee_shop_logos/bridgehead_logo.png"
+          }
+     ]
+}
