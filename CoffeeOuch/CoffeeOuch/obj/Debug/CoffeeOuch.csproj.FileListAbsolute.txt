@@ -1,53 +1,3 @@
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\ApplicationIcon.png
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\IconicTileSmall.png
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch.dll
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch.pdb
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\Bin\Debug\AppManifest.xaml
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\Bin\Debug\Properties\WMAppManifest.xml
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch_Debug_AnyCPU.xap
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\App.g.cs
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\MainPage.g.cs
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.g.resources
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.Resources.AppResources.resources
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.csproj.GenerateResource.Cache
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.dll
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.pdb
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\XapCacheFile.xml
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\About.g.cs
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\Coffee.g.cs
-c:\users\scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\Ouch.g.cs
-C:\Users\Scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\Map.g.cs
-C:\Users\Scott\documents\visual studio 2012\Projects\CoffeeOuch\CoffeeOuch\obj\Debug\OuchDetail.g.cs
-<<<<<<< HEAD
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\IconicTileSmall.png
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\ApplicationIcon.png
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch.dll
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch.pdb
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\AppManifest.xaml
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Properties\WMAppManifest.xml
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch_Debug_AnyCPU.xap
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\App.g.cs
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\About.g.cs
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\Coffee.g.cs
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\MainPage.g.cs
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\Map.g.cs
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\Ouch.g.cs
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\OuchDetail.g.cs
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.g.resources
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.Resources.AppResources.resources
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.csproj.GenerateResource.Cache
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.dll
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.pdb
-C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\XapCacheFile.xml
-=======
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\ApplicationIcon.png
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
@@ -62,6 +12,7 @@ C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\Co
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch_Debug_AnyCPU.xap
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Newtonsoft.Json.dll
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.csprojResolveAssemblyReference.cache
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\App.g.cs
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\About.g.cs
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\Coffee.g.cs
@@ -75,5 +26,3 @@ C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\Co
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.dll
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.pdb
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\XapCacheFile.xml
-C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.csprojResolveAssemblyReference.cache
->>>>>>> c82dad1e6d0fa01957bdacdd313804c115a03d48
