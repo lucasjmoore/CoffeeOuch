@@ -39,7 +39,7 @@ namespace CoffeeOuch
 
         public void OuchLoadMenuDataLocal()
         {
-            using (StreamReader StreamReaderOuch = new StreamReader("/Assets/ouch_categories.json")) 
+            using (StreamReader StreamReaderOuch = new StreamReader("Assets/ouch_categories.json")) 
             {
                 string json = StreamReaderOuch.ReadToEnd();
                 if (!string.IsNullOrEmpty(json))

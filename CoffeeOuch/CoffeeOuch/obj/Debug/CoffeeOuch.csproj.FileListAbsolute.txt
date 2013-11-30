@@ -26,3 +26,32 @@ C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\Co
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.dll
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.pdb
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\XapCacheFile.xml
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\ApplicationIcon.png
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\coffee_shops.json
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch.dll
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch.pdb
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\AppManifest.xaml
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Properties\WMAppManifest.xml
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch_Debug_AnyCPU.xap
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Newtonsoft.Json.dll
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Newtonsoft.Json.xml
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.csprojResolveAssemblyReference.cache
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\App.g.cs
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\About.g.cs
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\Coffee.g.cs
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\MainPage.g.cs
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\Map.g.cs
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\Ouch.g.cs
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\OuchDetail.g.cs
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.g.resources
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.Resources.AppResources.resources
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.csproj.GenerateResource.Cache
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.dll
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.pdb
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\XapCacheFile.xml
+C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\ouch_categories.json

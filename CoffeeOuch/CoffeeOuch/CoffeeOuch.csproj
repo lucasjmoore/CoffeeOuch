@@ -158,7 +158,9 @@
     <Content Include="Assets\coffee_shops.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <None Include="Assets\ouch_categories.json" />
+    <None Include="Assets\ouch_categories.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Assets\ouch_icons\Thumbs.db" />
     <None Include="packages.config" />
     <None Include="Properties\AppManifest.xml" />
