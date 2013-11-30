@@ -35,6 +35,29 @@
 
             <StackPanel Margin="0,37,0,0" Orientation="Vertical">
 
+                <phone:LongListSelector x:Name="OuchLLS" ItemsSource="{Binding Categories}">
+                    <phone:LongListSelector.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="12,2,0,4" Height="105" Width="432" Tap="Option_BTN_Tap">
+                                <Image x:Name="Image" Source="{Binding Image}" />
+                                <StackPanel Width="311" Margin="8,0,0,0" VerticalAlignment="Center">
+                                    <TextBlock Text="{Binding Title}"  />
+                                </StackPanel>
+                            </StackPanel>
+                        </DataTemplate>
+                    </phone:LongListSelector.ItemTemplate>
+                </phone:LongListSelector>
+
+
+
+
+
+
+
+
+
+
+                <!--
                 <StackPanel x:Name="OptionOne_BTN" Tap="Option_BTN_Tap" HorizontalAlignment="Left" Orientation="Horizontal">
                     <Image Height="100" Width="100" Margin="0,0,12,0" Source="/Assets/ApplicationIcon.png"/>
                     <StackPanel Orientation="Vertical" Width="312">
@@ -81,7 +104,7 @@
                         	    <Run Text="Sample shop"/>
                         </TextBlock>
                     </StackPanel>
-                </StackPanel>
+                </StackPanel>-->
 
             </StackPanel>
 

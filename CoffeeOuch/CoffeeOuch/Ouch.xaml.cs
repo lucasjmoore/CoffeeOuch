@@ -12,9 +12,13 @@ namespace CoffeeOuch
 {
     public partial class Ouch : PhoneApplicationPage
     {
+        public static OuchData ouchData;
+
         public Ouch()
         {
             InitializeComponent();
+            ouchData = new OuchData();
+            DataContext = OuchData.menuOuchJsonData;
         }
 
         private void ApplicationBarMenuItem_Click(object sender, EventArgs e)
