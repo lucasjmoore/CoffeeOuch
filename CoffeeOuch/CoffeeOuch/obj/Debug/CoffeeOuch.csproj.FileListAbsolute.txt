@@ -28,11 +28,14 @@ C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\Co
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\coffee_shops.json
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch.dll
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch.pdb
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\AppManifest.xaml
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Properties\WMAppManifest.xml
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch_Debug_AnyCPU.xap
+C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Newtonsoft.Json.xml
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\App.g.cs
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\About.g.cs
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\Coffee.g.cs
@@ -46,6 +49,4 @@ C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\Co
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.dll
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.pdb
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\XapCacheFile.xml
-C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Newtonsoft.Json.dll
-C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Newtonsoft.Json.xml
 C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.csprojResolveAssemblyReference.cache

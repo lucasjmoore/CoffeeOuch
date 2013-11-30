@@ -28,6 +28,23 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+
+            <phone:LongListSelector x:Name="LLS" ItemsSource="{Binding Categories}">
+                <phone:LongListSelector.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" Margin="12,2,0,4" Height="105" Width="432">
+                            <Image x:Name="Image" Source="{Binding Image}" />
+                            <StackPanel Width="311" Margin="8,0,0,0" VerticalAlignment="Center">
+                                <TextBlock Text="{Binding Title}"  />
+                                <TextBlock Text="{Binding Website}" TextWrapping="Wrap" />
+                            </StackPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </phone:LongListSelector.ItemTemplate>
+            </phone:LongListSelector>
+
+
+            <!--
             <StackPanel Margin="0,14,16,0" Orientation="Vertical">
 
                 <StackPanel x:Name="CoffeOneBTN" Tap="Coffee_Tap" HorizontalAlignment="Left" Orientation="Horizontal">
@@ -79,6 +96,8 @@
                 </StackPanel>
                 
             </StackPanel>
+            
+        -->
         </Grid>
     </Grid>
 

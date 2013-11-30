@@ -13,9 +13,14 @@ namespace CoffeeOuch
 {
     public partial class Coffee : PhoneApplicationPage
     {
+
+        public static CoffeeData coffeeData;
+
         public Coffee()
         {
             InitializeComponent();
+            coffeeData = new CoffeeData();
+            DataContext = CoffeeData.menuJsonData;
         }
 
         private void ApplicationBarMenuItem_Click(object sender, EventArgs e)

@@ -99,6 +99,7 @@
     <Compile Include="Coffee.xaml.cs">
       <DependentUpon>Coffee.xaml</DependentUpon>
     </Compile>
+    <Compile Include="CoffeeData.cs" />
     <Compile Include="LocalizedStrings.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
@@ -150,6 +151,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\coffee_shops.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="packages.config" />
     <None Include="Properties\AppManifest.xml" />
     <None Include="Properties\WMAppManifest.xml">
@@ -161,6 +165,10 @@
     <Content Include="Assets\ApplicationIcon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Assets\coffee_shop_logos\bridgehead_logo.png" />
+    <Content Include="Assets\coffee_shop_logos\secondcup_logo.png" />
+    <Content Include="Assets\coffee_shop_logos\starbucks_logo.png" />
+    <Content Include="Assets\coffee_shop_logos\timhortons_logo.png" />
     <Content Include="Assets\Tiles\FlipCycleTileLarge.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -181,6 +189,7 @@
     <EmbeddedResource Include="Resources\AppResources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
