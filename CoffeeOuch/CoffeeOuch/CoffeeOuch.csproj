@@ -178,7 +178,9 @@
     <Content Include="Assets\coffee_shop_logos\starbucks_logo.png" />
     <Content Include="Assets\coffee_shop_logos\timhortons_logo.png" />
     <Content Include="Assets\ouch_icons\burn_icon.png" />
+    <Content Include="Assets\ouch_icons\email_icon.png" />
     <Content Include="Assets\ouch_icons\ouchitem_icon.png" />
+    <Content Include="Assets\ouch_icons\phone_icon.png" />
     <Content Include="Assets\ouch_icons\spill_icon.png" />
     <Content Include="Assets\ouch_icons\stain_icon.png" />
     <Content Include="Assets\Tiles\FlipCycleTileLarge.png">

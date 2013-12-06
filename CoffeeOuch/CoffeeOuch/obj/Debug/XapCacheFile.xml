@@ -1,6 +1,6 @@
-﻿<xapCache source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="11/29/2013 10:23:13 PM">
-  <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.dll" archivePath="CoffeeOuch.dll" lastWriteTime="11/29/2013 10:23:12 PM" />
-  <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\bg.png" archivePath="Assets\bg.png" lastWriteTime="11/29/2013 11:38:59 AM" />
+﻿<xapCache source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="12/6/2013 9:38:43 AM">
+  <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.dll" archivePath="CoffeeOuch.dll" lastWriteTime="12/6/2013 9:38:42 AM" />
+  <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\bg.png" archivePath="Assets\bg.png" lastWriteTime="12/6/2013 9:37:26 AM" />
   <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\btn_icons\coffee_icon.png" archivePath="Assets\btn_icons\coffee_icon.png" lastWriteTime="11/29/2013 10:45:40 AM" />
   <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\btn_icons\ouch_icon.png" archivePath="Assets\btn_icons\ouch_icon.png" lastWriteTime="11/29/2013 10:46:23 AM" />
   <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\coffee_shops.json" archivePath="Assets\coffee_shops.json" lastWriteTime="11/29/2013 8:47:24 PM" />
@@ -10,7 +10,9 @@
   <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\coffee_shop_logos\starbucks_logo.png" archivePath="Assets\coffee_shop_logos\starbucks_logo.png" lastWriteTime="11/29/2013 9:40:03 AM" />
   <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\coffee_shop_logos\timhortons_logo.png" archivePath="Assets\coffee_shop_logos\timhortons_logo.png" lastWriteTime="11/29/2013 9:41:08 AM" />
   <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\ouch_icons\burn_icon.png" archivePath="Assets\ouch_icons\burn_icon.png" lastWriteTime="11/29/2013 4:19:08 PM" />
+  <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\ouch_icons\email_icon.png" archivePath="Assets\ouch_icons\email_icon.png" lastWriteTime="12/6/2013 8:48:41 AM" />
   <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\ouch_icons\ouchitem_icon.png" archivePath="Assets\ouch_icons\ouchitem_icon.png" lastWriteTime="11/29/2013 12:19:01 PM" />
+  <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\ouch_icons\phone_icon.png" archivePath="Assets\ouch_icons\phone_icon.png" lastWriteTime="12/6/2013 8:48:41 AM" />
   <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\ouch_icons\spill_icon.png" archivePath="Assets\ouch_icons\spill_icon.png" lastWriteTime="11/29/2013 4:19:33 PM" />
   <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\ouch_icons\stain_icon.png" archivePath="Assets\ouch_icons\stain_icon.png" lastWriteTime="11/29/2013 4:18:13 PM" />
   <file source="C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="11/29/2013 8:36:24 AM" />

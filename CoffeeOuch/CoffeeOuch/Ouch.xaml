@@ -14,26 +14,28 @@
     shell:SystemTray.IsVisible="True">
 
     <!--LayoutRoot is the root grid where all page content is placed-->
-    <Grid x:Name="LayoutRoot" Background="Transparent">
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/bg.png" />
+        </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
         <!--TitlePanel contains the name of the application and page title-->
-        <StackPanel Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Text="COFFEE OUCH" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Text="Ouch!" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Ouch!" FontSize="48" FontFamily="Arial" TextAlignment="Center" Foreground="#FFF;" Margin="12,0"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
-        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,56,12,58">
 
-            <StackPanel Grid.Row="0" Margin="0,0,0,0" Height="32" VerticalAlignment="Top">
-                <TextBlock Text="What Happend?" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <StackPanel Grid.Row="0" Margin="10,0" Height="32" VerticalAlignment="Top">
+                <TextBlock Text="What Happend?" Foreground="Black" Style="{StaticResource PhoneTextNormalStyle}"/>
             </StackPanel>
 
-            <StackPanel Margin="0,37,0,0" Orientation="Vertical">
+            <StackPanel Margin="10,37,10,0" Orientation="Vertical">
 
                 <phone:LongListSelector x:Name="OuchLLS" ItemsSource="{Binding Categories}">
                     <phone:LongListSelector.ItemTemplate>
@@ -41,7 +43,7 @@
                             <StackPanel Orientation="Horizontal" Margin="12,2,0,4" Height="105" Width="432" Tap="Option_BTN_Tap">
                                 <Image x:Name="Image" Source="{Binding Image}" />
                                 <StackPanel Width="311" Margin="8,0,0,0" VerticalAlignment="Center">
-                                    <TextBlock Text="{Binding Title}"  />
+                                    <TextBlock Foreground="Black" Text="{Binding Title}"  />
                                 </StackPanel>
                             </StackPanel>
                         </DataTemplate>
