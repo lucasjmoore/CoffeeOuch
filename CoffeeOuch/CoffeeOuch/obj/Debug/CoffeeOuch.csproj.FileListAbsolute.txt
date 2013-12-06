@@ -55,3 +55,4 @@ C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.dll
 C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.pdb
 C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\XapCacheFile.xml
 C:\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\ouch_categories.json
+C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Assets\ouch_categories.json
