@@ -4,21 +4,25 @@
      [
           {
                "Title": "Burnt Yourself",
-               "Image": "Assets/ouch_icons/burn_icon.png"
+               "Image": "Assets/ouch_icons/burn_icon.png",
+			   "Solutions":["Run burned area under cold water","Have someone punch you elsewhere, (it will take your mind off the burning)","Iced burned area", "Go cry in the corner"]
                
           },
           {
                "Title": "Stain on Clothes",
-			   "Image": "Assets/ouch_icons/stain_icon.png"
+			   "Image": "Assets/ouch_icons/stain_icon.png",
+			   "Solutions":["Take your clothes off:","If you need to go into a room with others in it, put a headband on and run quickly through (They will just think you're a streaker","If clothes are white, bleach it carefully.","Wash ASAP","Get more coffee and strategically spill more on the areas that need it - this way the stained area doesn't look out of place. (If you're feeling creative try for tiedye effect - consider using grape juice for added colour)."]
                
           },
 	  {
-               "Title": "Spilt Floor",
-               "Image": "Assets/ouch_icons/spill_icon.png"
+               "Title": "Spilt on Floor",
+               "Image": "Assets/ouch_icons/spill_icon.png",
+			   "Solutions":["Well don't just stand there. Mop that up! (Nothing to wipe it up with? Sacrifice your sock to the cause and use that).","Call your pet over to lick it up."]
           },
 	  {
                "Title": "Tips and Tricks",
-               "Image": "Assets/ouch_icons/ouchitem_icon.png"
+               "Image": "Assets/ouch_icons/ouchitem_icon.png",
+			   "Solutions":["There's nothing here!","You did ask for a trick didnt you","Okay okay well here's a tip, don't prank you boss unless he has a sense of humor."]
           }
      ]
 }
