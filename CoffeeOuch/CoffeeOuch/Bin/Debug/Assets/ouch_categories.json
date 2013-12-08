@@ -11,13 +11,13 @@
           {
                "Title": "Stain on Clothes",
 			   "Image": "Assets/ouch_icons/stain_icon.png",
-			   "Solutions":["Take your clothes off:","IF you need to go into a room with others in it, put a headband on and run quickly through (They will just think you're a streaker","If clothes are white, bleach it carefully.","Wash ASAP","Get more coffee and strategically spill more on the areas that need it - this way the stained area doesn't look out of place. (If you're feeling creative try for tiedye effect - consider using grape juice for added colour)."]
+			   "Solutions":["Take your clothes off:","If you need to go into a room with others in it, put a headband on and run quickly through (They will just think you're a streaker","If clothes are white, bleach it carefully.","Wash ASAP","Get more coffee and strategically spill more on the areas that need it - this way the stained area doesn't look out of place. (If you're feeling creative try for tiedye effect - consider using grape juice for added colour)."]
                
           },
 	  {
                "Title": "Spilt on Floor",
                "Image": "Assets/ouch_icons/spill_icon.png",
-			   "Solutions":["Well don't just stand there. Mop that up! (Nothing to wipe it up with? Sacrifice your sock to the cause and use that).","two","three"]
+			   "Solutions":["Well don't just stand there. Mop that up! (Nothing to wipe it up with? Sacrifice your sock to the cause and use that).","Call your pet over to lick it up."]
           },
 	  {
                "Title": "Tips and Tricks",

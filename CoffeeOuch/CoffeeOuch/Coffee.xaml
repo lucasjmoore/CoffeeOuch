@@ -34,7 +34,7 @@
             <phone:LongListSelector x:Name="LLS" ItemsSource="{Binding Categories}" Margin="10,0">
                 <phone:LongListSelector.ItemTemplate>
                     <DataTemplate>
-                        <StackPanel Orientation="Horizontal" Margin="12,2,0,4" Height="105" Width="432">
+                        <StackPanel Orientation="Horizontal" Margin="12,2,0,4" Height="105" Width="432" Tap="Coffee_Tap">
                             <Image x:Name="Image" Source="{Binding Image}" />
                             <StackPanel Width="311" Margin="8,0,0,0" VerticalAlignment="Center">
                                 <TextBlock Foreground="Black" Text="{Binding Title}"  />
