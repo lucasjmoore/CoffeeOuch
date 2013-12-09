@@ -30,8 +30,12 @@ namespace CoffeeOuch
 
         private void Coffee_Tap(object sender, System.Windows.Input.GestureEventArgs e)
         {
+            CoffeeData.CategoryItem item = ((FrameworkElement)e.OriginalSource).DataContext as CoffeeData.CategoryItem;
+            CoffeeData.selectedItem = item; // save the category item selected here
+            String site = item.Website;
+
             WebBrowserTask wbt = new Microsoft.Phone.Tasks.WebBrowserTask();
-            wbt.Uri = new Uri("http://www.starbucks.ca/");
+            wbt.Uri = new Uri(site);
             wbt.Show();
         }
     }

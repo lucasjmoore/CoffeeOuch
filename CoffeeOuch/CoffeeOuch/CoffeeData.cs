@@ -11,6 +11,7 @@ namespace CoffeeOuch
     public class CoffeeData
     {
         public static MenuResponse menuJsonData = null;
+        public static CategoryItem selectedItem { get; set; } 
 
         public CoffeeData()
         {
