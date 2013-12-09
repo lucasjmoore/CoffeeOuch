@@ -55,12 +55,6 @@ namespace CoffeeOuch
              }
         }
         
-        private void Coffee_Tap(object sender, System.Windows.Input.GestureEventArgs e)
-        {
-             WebBrowserTask wbt = new Microsoft.Phone.Tasks.WebBrowserTask();
-             wbt.Uri = new Uri("http://www.starbucks.ca/");
-             wbt.Show();
-         }
       
 
 
