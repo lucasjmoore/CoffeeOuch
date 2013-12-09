@@ -9,10 +9,22 @@ namespace CoffeeOuch
     public class OuchData
     {
         public static MenuResponse menuOuchJsonData = null;
+        public static CategoryItem selectedItem { get; set; } 
 
         public OuchData()
         {
             OuchLoadMenuDataLocal();
+        }
+
+        [DataContract]
+        public class SolutionItem
+        {
+            [DataMember]
+            public string Desc { get; set; }
+
+            [DataMember]
+            public string Image { get; set; }
+
         }
 
         [DataContract]
@@ -23,6 +35,9 @@ namespace CoffeeOuch
 
             [DataMember]
             public string Image { get; set; }
+
+            [DataMember]
+            public ObservableCollection<SolutionItem> Solutions { get; set; }
         }
 
 

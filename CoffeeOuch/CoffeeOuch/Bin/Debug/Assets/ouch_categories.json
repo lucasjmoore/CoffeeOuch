@@ -5,24 +5,87 @@
           {
                "Title": "Burnt Yourself",
                "Image": "Assets/ouch_icons/burn_icon.png",
-			   "Solutions":["Run burned area under cold water","Have someone punch you elsewhere, (it will take your mind off the burning)","Iced burned area", "Go cry in the corner"]
+			   "Solutions":[
+								{
+									"Desc": "Run burned area under cold water",
+									"Image": "/Assets/ApplicationIcon.png"
+								},
+								{
+									"Desc": "Have someone punch you elsewhere, (it will take your mind off the burning)",
+									"Image": "/Assets/ApplicationIcon.png"
+								},
+								{
+									"Desc": "Iced burned area",
+									"Image": "/Assets/ApplicationIcon.png"
+								},
+								{
+									"Desc": "Go cry in the corner",
+									"Image": "/Assets/ApplicationIcon.png"
+								}
+							]
                
           },
           {
                "Title": "Stain on Clothes",
 			   "Image": "Assets/ouch_icons/stain_icon.png",
-			   "Solutions":["Take your clothes off:","If you need to go into a room with others in it, put a headband on and run quickly through (They will just think you're a streaker","If clothes are white, bleach it carefully.","Wash ASAP","Get more coffee and strategically spill more on the areas that need it - this way the stained area doesn't look out of place. (If you're feeling creative try for tiedye effect - consider using grape juice for added colour)."]
-               
+			   "Solutions":[
+								{
+									"Desc": "Take your clothes off",
+									"Image": "/Assets/ApplicationIcon.png"
+								},
+								{
+									"Desc": "If you need to go into a room with others in it, put a headband on and run quickly through (They will just think you're a streaker",
+									"Image": "/Assets/ApplicationIcon.png"
+								},
+								{
+									"Desc": "If clothes are white, bleach it carefully",
+									"Image": "/Assets/ApplicationIcon.png"
+								},
+								{
+									"Desc": "Wash ASAP",
+									"Image": "/Assets/ApplicationIcon.png"
+								},
+								{
+									"Desc": "Get more coffee and strategically spill more on the areas that need it - this way the stained area doesn't look out of place. (If you're feeling creative try for tiedye effect - consider using grape juice for added colour)",
+									"Image": "/Assets/ApplicationIcon.png"
+								}
+							]
           },
 	  {
                "Title": "Spilt on Floor",
                "Image": "Assets/ouch_icons/spill_icon.png",
-			   "Solutions":["Well don't just stand there. Mop that up! (Nothing to wipe it up with? Sacrifice your sock to the cause and use that).","Call your pet over to lick it up."]
+			   "Solutions":[
+								{
+									"Desc": "Well don't just stand there. Mop that up! (Nothing to wipe it up with? Sacrifice your sock to the cause and use that)",
+									"Image": "/Assets/ApplicationIcon.png"
+								},
+								{
+									"Desc": "Call your pet over to lick it up",
+									"Image": "/Assets/ApplicationIcon.png"
+								},
+								{
+									"Desc": "Don't want to mop? Don't have a pet?... Lick it up yourself",
+									"Image": "/Assets/ApplicationIcon.png"
+								}
+							]
           },
 	  {
                "Title": "Tips and Tricks",
                "Image": "Assets/ouch_icons/ouchitem_icon.png",
-			   "Solutions":["There's nothing here!","You did ask for a trick didnt you","Okay okay well here's a tip, don't prank you boss unless he has a sense of humor."]
+			   "Solutions":[
+								{
+									"Desc": "There's nothing here!",
+									"Image": "/Assets/ApplicationIcon.png"
+								},
+								{
+									"Desc": "You did ask for a trick didnt you",
+									"Image": "/Assets/ApplicationIcon.png"
+								},
+								{
+									"Desc": "Okay okay well here's a tip, don't prank you boss unless he has a sense of humor",
+									"Image": "/Assets/ApplicationIcon.png"
+								}
+							]
           }
      ]
 }

@@ -28,7 +28,10 @@ namespace CoffeeOuch
 
         private void Option_BTN_Tap(object sender, System.Windows.Input.GestureEventArgs e)
         {
-            NavigationService.Navigate(new Uri("/OuchDetail.xaml", UriKind.Relative));
+            OuchData.CategoryItem item = ((FrameworkElement)e.OriginalSource).DataContext as OuchData.CategoryItem;
+            OuchData.selectedItem = item; // save the category item selected here
+            if (item != null) // if fast-clicking, it is possible to get here with nothing selected.  Ignore
+                NavigationService.Navigate(new Uri("/OuchDetail.xaml", UriKind.Relative));
         }
 
         private void OptionMap_BTN_Tap(object sender, System.Windows.Input.GestureEventArgs e)

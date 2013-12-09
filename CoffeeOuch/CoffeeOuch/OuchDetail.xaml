@@ -14,72 +14,36 @@
     shell:SystemTray.IsVisible="True">
 
     <!--LayoutRoot is the root grid where all page content is placed-->
-    <Grid x:Name="LayoutRoot" Background="Transparent">
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/bg.png" />
+        </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
         <!--TitlePanel contains the name of the application and page title-->
-        <StackPanel Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Text="COFFEE OUCH" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock Text="Selected Ouch" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="What to Do " FontSize="48" FontFamily="Arial" TextAlignment="Center" Foreground="#FFF;" Margin="12,0"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
 
-            <StackPanel Margin="0,37,0,0" Orientation="Vertical">
 
-                <StackPanel HorizontalAlignment="Left" Orientation="Horizontal">
-                    <Image Height="100" Width="100" Margin="0,0,12,0" Source="/Assets/ApplicationIcon.png"/>
-                    <StackPanel Orientation="Vertical" Width="312">
-                        <TextBlock Style="{StaticResource PhoneTextLargeStyle}">
-                        	    <Run Text="What to Do One"/>
-                        </TextBlock>
-                        <TextBlock TextWrapping="Wrap" Style="{StaticResource PhoneTextSubtleStyle}" Height="65" Margin="12,0,0,0">
-                        	    <Run Text="Sample"/>
-                        </TextBlock>
-                    </StackPanel>
-                </StackPanel>
-
-                <StackPanel HorizontalAlignment="Left" Orientation="Horizontal">
-                    <Image Height="100" Width="100" Margin="0,0,12,0" Source="/Assets/ApplicationIcon.png"/>
-                    <StackPanel Orientation="Vertical" Width="312">
-                        <TextBlock Style="{StaticResource PhoneTextLargeStyle}">
-                        	    <Run Text="What to Do Two"/>
-                        </TextBlock>
-                        <TextBlock TextWrapping="Wrap" Style="{StaticResource PhoneTextSubtleStyle}" Height="65" Margin="12,0,0,0">
-                        	    <Run Text="Sample"/>
-                        </TextBlock>
-                    </StackPanel>
-                </StackPanel>
-
-                <StackPanel HorizontalAlignment="Left" Orientation="Horizontal">
-                    <Image Height="100" Width="100" Margin="0,0,12,0" Source="/Assets/ApplicationIcon.png"/>
-                    <StackPanel Orientation="Vertical" Width="312">
-                        <TextBlock Style="{StaticResource PhoneTextLargeStyle}">
-                        	    <Run Text="What to Do Three"/>
-                        </TextBlock>
-                        <TextBlock TextWrapping="Wrap" Style="{StaticResource PhoneTextSubtleStyle}" Height="65" Margin="12,0,0,0">
-                        	    <Run Text="Sample"/>
-                        </TextBlock>
-                    </StackPanel>
-                </StackPanel>
-
-                <StackPanel HorizontalAlignment="Left" Orientation="Horizontal">
-                    <Image Height="100" Width="100" Margin="0,0,12,0" Source="/Assets/ApplicationIcon.png"/>
-                    <StackPanel Orientation="Vertical" Width="312">
-                        <TextBlock Style="{StaticResource PhoneTextLargeStyle}">
-                        	    <Run Text="What to Do Four"/>
-                        </TextBlock>
-                        <TextBlock TextWrapping="Wrap" Style="{StaticResource PhoneTextSubtleStyle}" Height="65" Margin="12,0,0,0">
-                        	    <Run Text="Sample shop"/>
-                        </TextBlock>
-                    </StackPanel>
-                </StackPanel>
-
-            </StackPanel>
+            <phone:LongListSelector x:Name="LLS" ItemsSource="{Binding Solutions}" Margin="10,0">
+                <phone:LongListSelector.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" Margin="12,2,0,4" Height="105" Width="432">
+                            <Image x:Name="Image" Source="{Binding Image}" />
+                            <StackPanel Width="311" Margin="8,0,0,0" VerticalAlignment="Center">
+                                <TextBlock Foreground="Black" Text="{Binding Desc}" />
+                            </StackPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </phone:LongListSelector.ItemTemplate>
+            </phone:LongListSelector>
 
         </Grid>
     </Grid>

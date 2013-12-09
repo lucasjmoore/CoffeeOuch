@@ -37,10 +37,10 @@
 
             <StackPanel Margin="10,37,10,0" Orientation="Vertical">
 
-                <phone:LongListSelector x:Name="OuchLLS" ItemsSource="{Binding Categories}">
+                <phone:LongListSelector x:Name="OuchLLS" ItemsSource="{Binding Categories}" Tap="Option_BTN_Tap" >
                     <phone:LongListSelector.ItemTemplate>
                         <DataTemplate>
-                            <StackPanel Orientation="Horizontal" Margin="12,2,0,4" Height="105" Width="432" Tap="Option_BTN_Tap">
+                            <StackPanel Orientation="Horizontal" Margin="12,2,0,4" Height="105" Width="432">
                                 <Image x:Name="Image" Source="{Binding Image}" />
                                 <StackPanel Width="311" Margin="8,0,0,0" VerticalAlignment="Center">
                                     <TextBlock Foreground="Black" Text="{Binding Title}"  />
