@@ -38,5 +38,38 @@ namespace CoffeeOuch
             wbt.Uri = new Uri(site);
             wbt.Show();
         }
+
+        private void CallAFriendButton_Tap(object sender, System.Windows.Input.GestureEventArgs e)
+        {
+            PhoneNumberChooserTask phoneNumberChooserTask;
+            phoneNumberChooserTask = new PhoneNumberChooserTask();
+            phoneNumberChooserTask.Completed += new EventHandler<PhoneNumberResult>(phoneNumberChooserTask_Completed);
+            phoneNumberChooserTask.Show();
+
+          
+        }
+
+        private void EmailUs_Button_Tap(object sender, System.Windows.Input.GestureEventArgs e)
+        {
+            EmailComposeTask emailComposeTask = new EmailComposeTask();
+
+            emailComposeTask.Subject = "Coffee...Ouch! suggestions and comments";
+            emailComposeTask.Body = "Hey, There's this really great coffee shop named ____  that isn't on your list. Great job on the app though. Signed -Your name    (This is just a sample email, feel free to use the layout we've given you, or write your own custom one! We'd love to hear from you.)";
+            emailComposeTask.To = "000magic@gmail.com";
+
+            emailComposeTask.Show();
+        }
+
+        void phoneNumberChooserTask_Completed(object sender, PhoneNumberResult e)
+        {
+            if (e.TaskResult == TaskResult.OK)
+            {
+                //Code to start a new call using the retrieved phone number.
+                PhoneCallTask phoneCallTask = new PhoneCallTask();
+                phoneCallTask.DisplayName = e.DisplayName;
+                phoneCallTask.PhoneNumber = e.PhoneNumber;
+                phoneCallTask.Show();
+            }
+        }
     }
 }

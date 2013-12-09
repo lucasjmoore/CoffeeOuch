@@ -1,5 +1,5 @@
-﻿<xapCache source="C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="12/9/2013 12:46:43 PM">
-  <file source="C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.dll" archivePath="CoffeeOuch.dll" lastWriteTime="12/9/2013 12:46:42 PM" />
+﻿<xapCache source="C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\CoffeeOuch_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="12/9/2013 5:03:31 PM">
+  <file source="C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\obj\Debug\CoffeeOuch.dll" archivePath="CoffeeOuch.dll" lastWriteTime="12/9/2013 5:03:30 PM" />
   <file source="C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\bg.png" archivePath="Assets\bg.png" lastWriteTime="12/9/2013 12:09:45 PM" />
   <file source="C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\btn_icons\coffee_icon.png" archivePath="Assets\btn_icons\coffee_icon.png" lastWriteTime="12/9/2013 12:09:46 PM" />
   <file source="C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\btn_icons\ouch_icon.png" archivePath="Assets\btn_icons\ouch_icon.png" lastWriteTime="12/9/2013 12:09:46 PM" />
@@ -31,5 +31,5 @@
   <file source="C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\packages\Newtonsoft.Json.5.0.8\lib\portable-net45+wp80+win8\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="12/9/2013 12:09:46 PM" />
   <file source="C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12/9/2013 12:09:45 PM" />
   <file source="C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12/9/2013 12:09:45 PM" />
-  <file source="C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12/9/2013 12:09:46 PM" />
+  <file source="C:\Users\moor0431\Documents\Visual Studio 2012\Projects\CoffeeOuch\CoffeeOuch\CoffeeOuch\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12/9/2013 1:07:37 PM" />
 </xapCache>

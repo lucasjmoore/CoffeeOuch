@@ -44,8 +44,8 @@
                 </phone:LongListSelector.ItemTemplate>
             </phone:LongListSelector>
 
-            <TextBlock Foreground="Black" Margin="12,462,0,-67" Text="Coffee alone? Why not call a friend." />
-            <TextBlock Foreground="Black" Margin="12,485,0,-67" Text="Don't see your favourite coffeeshop? Email us." />
+            <TextBlock Foreground="Black" Margin="12,447,0,-52" Text="Coffee alone? Why not call a friend." Tap="CallAFriendButton_Tap" />
+            <TextBlock Foreground="Black" Margin="12,485,0,-67" Text="Don't see your favourite coffeeshop? Email us." Tap="EmailUs_Button_Tap" />
 
         </Grid>
     </Grid>
