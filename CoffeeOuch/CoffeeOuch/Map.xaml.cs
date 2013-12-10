@@ -19,7 +19,7 @@ namespace CoffeeOuch
         List<GeoCoordinate> MyCoordinates = new List<GeoCoordinate>();
         GeocodeQuery Mygeocodequery = null;
         RouteQuery MyQuery = null;
-        
+
         public Map()
         {
             InitializeComponent();

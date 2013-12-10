@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US" />
-  <App xmlns="" ProductID="{aa3be4f3-c962-4ea2-80f1-67b504d997a3}" Title="CoffeeOuch" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="CoffeeOuch author" Description="Sample description" Publisher="CoffeeOuch" PublisherID="{2e8e9c74-efc9-4a8a-bf46-50ab7da8e538}">
+  <Languages xmlns="">
+    <Language code="en-CA" />
+    <Language code="en" />
+  </Languages>
+  <App xmlns="" ProductID="{aa3be4f3-c962-4ea2-80f1-67b504d997a3}" Title="CoffeeOuch" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="CoffeeOuch author" Description="Windows App for accident prone coffee drinkers." Publisher="CoffeeOuch" PublisherID="{2e8e9c74-efc9-4a8a-bf46-50ab7da8e538}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING" />
