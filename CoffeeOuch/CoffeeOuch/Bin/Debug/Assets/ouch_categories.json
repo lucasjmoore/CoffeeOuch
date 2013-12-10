@@ -3,6 +3,10 @@
   "Categories": 
      [
           {
+				"Title": "Get Me to the Hospital",
+				"Image": "Assets/ouch_icons/ouchitem_icon.png"
+		  },
+		  {
                "Title": "Burnt Yourself",
                "Image": "Assets/ouch_icons/burn_icon.png",
 			   "Solutions":[
@@ -69,24 +73,6 @@
 								},
 								{
 									"Desc": "Don't want to mop? Don't have a pet?... Lick it up yourself",
-									"Image": "/Assets/ApplicationIcon.png"
-								}
-							]
-          },
-	  {
-               "Title": "Tips and Tricks",
-               "Image": "Assets/ouch_icons/ouchitem_icon.png",
-			   "Solutions":[
-								{
-									"Desc": "There's nothing here!",
-									"Image": "/Assets/ApplicationIcon.png"
-								},
-								{
-									"Desc": "You did ask for a trick didnt you",
-									"Image": "/Assets/ApplicationIcon.png"
-								},
-								{
-									"Desc": "Okay okay well here's a tip, don't prank you boss unless he has a sense of humor",
 									"Image": "/Assets/ApplicationIcon.png"
 								}
 							]

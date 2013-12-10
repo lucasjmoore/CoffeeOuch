@@ -37,7 +37,7 @@ namespace CoffeeOuch
                 MyCoordinates.Add(new GeoCoordinate(MyGeoPosition.Coordinate.Latitude, MyGeoPosition.Coordinate.Longitude));
 
                 Mygeocodequery = new GeocodeQuery();
-                Mygeocodequery.SearchTerm = "1385 Woodroffe Ave  Ottawa, ON K2G 1V8";
+                Mygeocodequery.SearchTerm = "3045 Baseline Rd, Ottawa, ON K2H 8P4";
                 Mygeocodequery.GeoCoordinate = new GeoCoordinate(MyGeoPosition.Coordinate.Latitude, MyGeoPosition.Coordinate.Longitude);    // Geocode_query_QueryCompleted will be called both for route searches and location searched.  Needs some geolocation (either new GeoCoordinate(0, 0) if we don't have ours, or MyCoordinate )
 
                 Mygeocodequery.QueryCompleted += Mygeocodequery_QueryCompleted;
@@ -57,7 +57,7 @@ namespace CoffeeOuch
 
         private void Mygeocodequery_QueryCompleted(object sender, QueryCompletedEventArgs<IList<MapLocation>> e)
         {
-            if (e.Error == null)
+            if (e.Error == null && e.Result.Count > 0)
             {
                 MyQuery = new RouteQuery();
                 MyCoordinates.Add(e.Result[0].GeoCoordinate);

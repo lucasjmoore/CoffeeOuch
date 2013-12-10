@@ -18,22 +18,28 @@
     </Tasks>
     <Tokens>
       <PrimaryToken TokenID="CoffeeOuchToken" TaskName="_default">
-        <TemplateFlip>
-          <SmallImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileSmall.png</SmallImageURI>
+        <TemplateCycle>
+          <SmallImageURI IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</SmallImageURI>
+          <Title>
+          </Title>
+          <Photo01ImageURI IsRelative="true" IsResource="false">Assets\btn_icons\ouch_icon.png</Photo01ImageURI>
+          <Photo02ImageURI IsRelative="true" IsResource="false">Assets\btn_icons\coffee_icon.png</Photo02ImageURI>
+          <Photo03ImageURI IsRelative="true" IsResource="false">Assets\ouch_icons\burn_icon.png</Photo03ImageURI>
+          <Photo04ImageURI IsRelative="true" IsResource="false">Assets\ouch_icons\stain_icon.png</Photo04ImageURI>
+          <Photo05ImageURI IsRelative="true" IsResource="false">Assets\ouch_icons\spill_icon.png</Photo05ImageURI>
+          <Photo06ImageURI IsRelative="true" IsResource="false">
+          </Photo06ImageURI>
+          <Photo07ImageURI IsRelative="true" IsResource="false">
+          </Photo07ImageURI>
+          <Photo08ImageURI IsRelative="true" IsResource="false">
+          </Photo08ImageURI>
+          <Photo09ImageURI IsRelative="true" IsResource="false">
+          </Photo09ImageURI>
           <Count>0</Count>
-          <BackgroundImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileMedium.png</BackgroundImageURI>
-          <Title>CoffeeOuch</Title>
-          <BackContent>
-          </BackContent>
-          <BackBackgroundImageURI>
-          </BackBackgroundImageURI>
-          <BackTitle>
-          </BackTitle>
-          <DeviceLockImageURI>
+          <HasLarge>True</HasLarge>
+          <DeviceLockImageURI IsRelative="true" IsResource="false">
           </DeviceLockImageURI>
-          <HasLarge>
-          </HasLarge>
-        </TemplateFlip>
+        </TemplateCycle>
       </PrimaryToken>
     </Tokens>
     <ScreenResolutions>
