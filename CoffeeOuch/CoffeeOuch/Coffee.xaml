@@ -31,7 +31,7 @@
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,60,12,46">
 
-            <phone:LongListSelector x:Name="LLS" ItemsSource="{Binding Categories}" Margin="10,0" Tap="Coffee_Tap">
+            <phone:LongListSelector x:Name="LLS" ItemsSource="{Binding Categories}" Margin="10,0,10,47" Tap="Coffee_Tap">
                 <phone:LongListSelector.ItemTemplate>
                     <DataTemplate>
                         <StackPanel Orientation="Horizontal" Margin="12,2,0,4" Height="105" Width="432">
