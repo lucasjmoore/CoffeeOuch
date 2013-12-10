@@ -33,7 +33,7 @@
             <StackPanel Margin="10,37,10,0" Orientation="Vertical">
 
                 <StackPanel Grid.Row="0" Margin="0,0,0,0" Height="262" VerticalAlignment="Top">
-                    <TextBlock TextWrapping="Wrap" Text="#000; Magic is a brand new startup focusing on building apps that are not only useful but are creative and fun. These apps many not always be useful to anyone but give the developers something to do. If they were not building apps who knows what weird stuff they might do. Like writing Binary for fun, or making a startup with a hex color in the name. Wait... they've done that" Foreground="Black" Style="{StaticResource PhoneTextNormalStyle}" Height="255" />
+                    <TextBlock TextWrapping="Wrap" Text="#000; Magic is a brand new startup focusing on building apps that are not only useful but are creative and fun. These apps many not always be useful to anyone but give the developers something to do. If they were not building apps who knows what weird stuff they might do. Like writing Binary for fun, or making a startup with a hex color in the name. Wait... they've done that." Foreground="Black" Style="{StaticResource PhoneTextNormalStyle}" Height="255" />
                 </StackPanel>
                 <TextBlock Text="The Developers" FontSize="28" FontFamily="Arial" Foreground="Black" Margin="12,0" Height="51"/>
 
@@ -41,10 +41,10 @@
                     <Image Height="100" Width="100" Margin="0,0,12,0" Source="/Assets/ApplicationIcon.png"/>
                     <StackPanel Orientation="Vertical" Width="312">
                         <TextBlock Style="{StaticResource PhoneTextLargeStyle}">
-                        	    <Run Foreground="Black" Text="Lucas"/>
+                        	    <Run Foreground="Black" Text="Lucas Moore"/>
                         </TextBlock>
                         <TextBlock TextWrapping="Wrap" Style="{StaticResource PhoneTextSubtleStyle}" Height="65" Margin="12,0,0,0">
-                        	    <Run Foreground="Black" Text="Favourite Cup of Coffee"/>
+                        	    <Run Foreground="Black" Text="Latte"/>
                         </TextBlock>
                     </StackPanel>
                 </StackPanel>
@@ -53,7 +53,7 @@
                     <Image Height="100" Width="100" Margin="0,0,12,0" Source="/Assets/ApplicationIcon.png"/>
                     <StackPanel Orientation="Vertical" Width="312">
                         <TextBlock Style="{StaticResource PhoneTextLargeStyle}">
-                        	    <Run Foreground="Black" Text="Scott"/>
+                        	    <Run Foreground="Black" Text="Scott Azulay"/>
                         </TextBlock>
                         <TextBlock TextWrapping="Wrap" Style="{StaticResource PhoneTextSubtleStyle}" Height="65" Margin="12,0,0,0">
                         	    <Run Foreground="Black" Text="Two Cream, One Sugar"/>
