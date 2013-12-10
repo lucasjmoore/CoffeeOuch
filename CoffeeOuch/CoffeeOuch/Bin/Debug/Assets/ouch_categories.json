@@ -46,7 +46,11 @@
 									"Image": "/Assets/ApplicationIcon.png"
 								},
 								{
-									"Desc": "Get more coffee and strategically spill more on the areas that need it - this way the stained area doesn't look out of place. (If you're feeling creative try for tiedye effect - consider using grape juice for added colour)",
+									"Desc": "Get more coffee, strategically spill more on it. This way the stained area doesn't look out of place.",
+									"Image": "/Assets/ApplicationIcon.png"
+								},
+								{
+									"Desc": " (If you're feeling creative try for a tiedye effect -consider using grape juice for added colour)",
 									"Image": "/Assets/ApplicationIcon.png"
 								}
 							]
