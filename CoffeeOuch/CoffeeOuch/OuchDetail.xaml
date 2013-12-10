@@ -38,7 +38,7 @@
                         <StackPanel Orientation="Horizontal" Margin="12,2,0,4" Height="105" Width="432">
                             <Image x:Name="Image" Source="{Binding Image}" />
                             <StackPanel Width="311" Margin="8,0,0,0" VerticalAlignment="Center">
-                                <TextBlock Foreground="Black" Text="{Binding Desc}" />
+                                <TextBlock TextWrapping="Wrap" Foreground="Black" Text="{Binding Desc}" />
                             </StackPanel>
                         </StackPanel>
                     </DataTemplate>
